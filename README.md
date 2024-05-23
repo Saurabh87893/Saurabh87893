@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saurabh kumar
-- 👀 I’m interested in developing apps
-- 🌱 I’m currently learning to develope apps
+- 👀 I’m interested in developing apps in domain of python, sql, c++, javascript, html+css, java
+- 🌱 I’m currently learning to develope apps and dsa
 - 💞️ I’m looking to collaborate on any application
 - 📫 How to reach me at email saurabhkumarsingh2001@gmail.com
 
